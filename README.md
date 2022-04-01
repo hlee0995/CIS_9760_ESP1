@@ -19,6 +19,25 @@ project01/
 +-- +-- dashboard04.png 
 +-- README
 
+Information about dataset
+data contains with many columns but we onlt utlized followings
+*Plate:
+*State:
+*License_type
+*Summons_Number
+*Issue_Date
+*Violation
+*fine_amount
+*penalty_amount
+*interest_amount
+*reduction_amount
+*payment_amount
+*amount_due
+*precinct
+*county
+*_id
+
+
 How to run and install: 
 1,Build Docker File with command line : docker build -t image01:1.0 .
 

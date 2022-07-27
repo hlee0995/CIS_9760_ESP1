@@ -8,15 +8,25 @@ We utilized EC2, Elasticsearch, and Kibana to upload and analyze Open Parking an
 Table of Content
 
 project01/
+
 +-- Dockerfile
+
 +-- requirements.txt
+
 +-- src/
+
 +-- +-- main.py
+
 +-- assets/
+
 +-- +-- dashboard01.png 
+
 +-- +-- dashboard02.png 
+
 +-- +-- dashboard03.png 
+
 +-- +-- dashboard04.png 
+
 +-- README
 
 Information about dataset
